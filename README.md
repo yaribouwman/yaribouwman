@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @yaribouwman  
-- 👀 I’m interested in all things data — especially big data pipelines, distributed systems, and cloud infrastructure.  
-- 🌱 I’m currently learning more about stream processing, real-time analytics, and platform engineering.  
+- 👀 I’m interested in all things data
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yaribouwman) 
